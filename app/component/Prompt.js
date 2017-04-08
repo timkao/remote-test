@@ -3,7 +3,7 @@ var React = require('react');
 function Prompt(props){
 		return (
 			<div>
-				check again
+				check again and again
 			</div>
 		)
 
